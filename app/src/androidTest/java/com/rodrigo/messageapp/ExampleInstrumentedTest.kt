@@ -1,4 +1,4 @@
-package com.example.messageapp
+package com.rodrigo.messageapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

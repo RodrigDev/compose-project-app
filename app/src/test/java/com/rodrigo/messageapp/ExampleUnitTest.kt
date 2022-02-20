@@ -1,4 +1,4 @@
-package com.example.messageapp
+package com.rodrigo.messageapp
 
 import org.junit.Test
 
